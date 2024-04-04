@@ -1,0 +1,27 @@
+{
+  "Outputs" : {
+    "class_type" : {
+      "MLFeatureShortDescription" : ""
+    },
+    "class_typeProbability" : {
+      "MLFeatureShortDescription" : ""
+    }
+  },
+  "Inputs" : {
+    "Volt" : {
+      "MLFeatureShortDescription" : ""
+    },
+    "Type" : {
+      "MLFeatureShortDescription" : ""
+    },
+    "Pressure" : {
+      "MLFeatureShortDescription" : ""
+    },
+    "Temperature" : {
+      "MLFeatureShortDescription" : ""
+    }
+  },
+  "TrainingInputs" : {
+
+  }
+}

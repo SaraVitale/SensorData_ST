@@ -1,0 +1,24 @@
+{
+    "fileFormatVersion": "1.0.0",
+    "itemInfoEntries": {
+        "7F2E4A07-8E65-400E-9851-B9EA224B86A3": {
+            "author": "com.apple.CoreML",
+            "description": "External Metadata Overlay",
+            "name": "Metadata.json",
+            "path": "com.apple.CoreML/Metadata.json"
+        },
+        "A6BDEA18-8598-4009-B14A-C4910885C220": {
+            "author": "com.apple.CoreML",
+            "description": "CoreML Model Specification",
+            "name": "SensorDataST_1.mlmodel",
+            "path": "com.apple.CoreML/SensorDataST_1.mlmodel"
+        },
+        "AA633AF9-D28D-4017-8BBC-E56BEDE4943E": {
+            "author": "com.apple.CoreML",
+            "description": "External FeatureDescription Overlay",
+            "name": "FeatureDescriptions.json",
+            "path": "com.apple.CoreML/FeatureDescriptions.json"
+        }
+    },
+    "rootModelIdentifier": "A6BDEA18-8598-4009-B14A-C4910885C220"
+}
